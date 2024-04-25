@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @astratow
-<!--- 
-- 👀 I’m interested in ...
---->
+- 👋 Hi, I’m Artur
+- 👀 I’m interested a Web Developer
 - 🌱 I’m currently working with liquid and shopify
 <!--- 
 - 💞️ I’m looking to collaborate on ...
