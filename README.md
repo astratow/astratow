@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artur
-- 👀 I’m interested a Web Developer
+- 👀 I’m interested a Web Development
 - 🌱 I’m currently working with liquid and shopify
 <!--- 
 - 💞️ I’m looking to collaborate on ...
